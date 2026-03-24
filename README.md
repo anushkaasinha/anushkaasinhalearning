@@ -70,17 +70,35 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 What I Know & How Well
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkaasinha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaasinha&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+| Skill | Proficiency |
+|---|---|
+| Java | ████████████████████ 95% |
+| Spring Boot | ███████████████████░ 90% |
+| Spring Security + JWT | ██████████████████░░ 85% |
+| REST API Design | ███████████████████░ 90% |
+| PostgreSQL / MySQL | █████████████████░░░ 80% |
+| React | ████████████░░░░░░░░ 60% |
+| Docker | ████████████░░░░░░░░ 60% |
+| Python | ███████████░░░░░░░░░ 55% |
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaasinha&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+---
+
+### 💡 Core Concepts
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005C84?style=flat-square&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Role Based Access Control](https://img.shields.io/badge/RBAC-DC382D?style=flat-square&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-ED8B00?style=flat-square&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-7B68EE?style=flat-square&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC-59666C?style=flat-square&logoColor=white)
+![Multithreading](https://img.shields.io/badge/Concurrency%20%26%20Multithreading-2496ED?style=flat-square&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-181717?style=flat-square&logo=githubactions&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6C37?style=flat-square&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD%20%2F%20JUnit5-25A162?style=flat-square&logoColor=white)
+![Idempotency](https://img.shields.io/badge/Idempotency-316192?style=flat-square&logoColor=white)
 
 ---
 
