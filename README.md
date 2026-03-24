@@ -29,13 +29,13 @@
 
 ### 🔗 Connect with Me
 
-<a href="www.linkedin.com/in/anushka-sinha-19a704236" target="_blank">
+<a href="https://www.linkedin.com/in/anushka-sinha" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:anushkasinhalko14@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/anushkaasinhalearning" target="_blank">
+<a href="https://github.com/anushkaasinha" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -73,13 +73,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkaasinhalearning&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkaasinha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaasinhalearning&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaasinha&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaasinhalearning&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaasinha&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 ---
